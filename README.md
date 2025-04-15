@@ -4,7 +4,7 @@
 This project analyzes a digital music store database using SQLite and Python, and builds regression models to predict invoice totals based on customer and track metadata. The analysis incorporates data cleaning, transformation, and model evaluation using Random Forests and other ensemble methods.
 
 ## 📦 Project Overview
-
+  
 - Connects to the **Chinook SQLite database**.
 - Performs SQL joins to combine customer, invoice, track, and genre data.
 - Cleans and transforms the dataset for regression modeling.
